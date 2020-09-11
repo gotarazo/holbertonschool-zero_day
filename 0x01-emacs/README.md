@@ -1,1 +1,1 @@
-Command to open a file from within Emacs
+Commands to Using Emacs as editor
