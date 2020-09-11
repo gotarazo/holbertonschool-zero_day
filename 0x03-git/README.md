@@ -1,1 +1,1 @@
-Git and Github managing
+Git and Github managing in the repositories (local and remote)
